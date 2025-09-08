@@ -106,7 +106,27 @@ export default function Home() {
               Guia Completo + Bônus Exclusivos
             </Badge>
           </motion.div>
+
+          
         </div>
+        <script>
+  window.pixelId = "68bdaceaddf626416ddf1db3";
+  var a = document.createElement("script");
+  a.setAttribute("async", "");
+  a.setAttribute("defer", "");
+  a.setAttribute("src", "https://cdn.utmify.com.br/scripts/pixel/pixel.js");
+  document.head.appendChild(a);
+</script>
+        <script
+  src="https://cdn.utmify.com.br/scripts/utms/latest.js"
+  data-utmify-prevent-xcod-sck
+  data-utmify-prevent-subids
+  data-utmify-ignore-iframe
+  data-utmify-is-cartpanda
+  async
+  defer
+></script>
+
         
         {/* Decorative elements */}
         <motion.div 
